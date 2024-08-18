@@ -1,6 +1,4 @@
 # wordle-unlimited
-A reimplementation of the word game "Wordle".
+A reimplementaion of the popular Wordle game in Swahili. 
 
-Original game website: https://www.powerlanguage.co.uk/wordle/
-
-My version: https://bosorioo.github.io/wordle-unlimited/
+Play this verion [here](https://scveatch.github.io/swahili_wordle/)!
