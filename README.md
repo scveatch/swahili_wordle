@@ -24,7 +24,7 @@ If you'd like to modify or extend this corpus, you can run the two bash scripts 
 Be sure to clone the repository as follows:
 
 ```bash
-git https://github.com/scveatch/swahili_wordle.git
+git clone https://github.com/scveatch/swahili_wordle.git
 cd swahili_wordle
 ```
 
