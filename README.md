@@ -24,8 +24,8 @@ If you'd like to modify or extend this corpus, you can run the two bash scripts 
 Be sure to clone the repository as follows:
 
 ```bash
-git clone https://github.com/yourusername/wordle-swahili.git
-cd wordle-swahili
+git https://github.com/scveatch/swahili_wordle.git
+cd swahili_wordle
 ```
 
 Running `extract_words.sh` over the corpus will output five_letter_words.txt -- you should clean this file for 
