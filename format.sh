@@ -6,11 +6,11 @@ if [ "$#" -ne 1 ]; then
     exit 1
 fi
 
-# Input file name from command line argument
+# input file name from command line argument
 input_file="$1"
 
 # Output file name
-output_file="test_words.txt"
+output_file="formated_words.txt"
 
 # Check if input file exists
 if [ ! -f "$input_file" ]; then

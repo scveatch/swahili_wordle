@@ -1,7 +1,12 @@
 #!/bin/bash
 
-# Input file name
-input_file="/home/spencer/projects/swahili_wordle/swa_wikipedia_2021_10K/swa_wikipedia_2021_10K-words.txt"
+if [ "$#" -ne 1 ]; then
+    echo "Usage: $0 <input_file>"
+    exit 1
+fi
+
+# input file name from command line argument
+input_file="$1"
 
 # Output file name
 output_file="five_letter_words.txt"
